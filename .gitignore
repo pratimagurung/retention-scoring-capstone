@@ -29,3 +29,14 @@ outputs/02_historical_test_customer_scores.csv
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Keep only the README in the data folder
+/data/*
+!/data/README.md
+
+# Large intermediate datasets
+/outputs/*.pkl
+/outputs/*.pickle
+
+# Jupyter temporary files
+.ipynb_checkpoints/

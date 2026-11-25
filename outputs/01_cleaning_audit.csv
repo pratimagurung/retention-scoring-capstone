@@ -1,0 +1,5 @@
+Stage,Lines remaining,Lines removed at step,Customers remaining
+Raw data,1067371,0,5942
+Missing customer ID or date,824364,243007,5942
+Cancellation invoices (C prefix),805620,18744,5881
+Nonpositive quantity or price,805549,71,5878

@@ -1,0 +1,6 @@
+TreatmentGroup,Customers,Selected,MedianHistoricalSpendGBP,HistoricalGrossSpendGBP,MeanPredictedRepeat,ObservedRepeatRate,ObservedNoRepeatRate,ProposedAction
+Low-cost outreach,2521,28,548.49,1772973.582,0.23629941764513593,0.3470844902816343,0.6529155097183656,Automated low-cost engagement
+Nurture,520,0,980.2,549222.681,0.6019857872021563,0.6326923076923077,0.36730769230769234,Regular marketing communication
+Protect loyalty,775,0,5036.53,8700271.475,0.7205697825158359,0.8658064516129033,0.13419354838709674,Recognition and service; avoid routine discounts
+Retention pilot candidates,501,501,3490.24,2636168.946,0.29397812617974217,0.6207584830339321,0.3792415169660679,Randomized offer versus no-offer pilot
+Separate reactivation,964,0,305.71000000000004,628771.772,0.10139332582020175,0.1078838174273859,0.892116182572614,Separate reactivation test
