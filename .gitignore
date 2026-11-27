@@ -40,3 +40,8 @@ Thumbs.db
 
 # Jupyter temporary files
 .ipynb_checkpoints/
+
+# Tableau
+*.twb
+*.twbx
+*.hyper
